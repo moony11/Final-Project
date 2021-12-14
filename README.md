@@ -14,10 +14,10 @@
 　　　　　&nbsp;마이페이지 회원정보, 적립금, 리뷰 기능 구현<br>         
 <br><br>               
 ### 2.소스코드
-  * [model](/final-project/tree/main/MeRoom/src/main/java/com/spring/mr/vo/) &nbsp;,&nbsp; (/final-project/tree/main/MeRoom/src/main/java/com/spring/mr/service/)
-  * [view](/final-project/tree/main/MeRoom/src/main/webapp/views/)
-  * [controller](/final-project/tree/main/MeRoom/src/main/java/com/spring/mr/controller/)
-  * [sql](/final-project/tree/main/MeRoom/sql/)
+  * [model](/MeRoom/src/main/java/com/spring/mr/vo/)
+  * [view](/MeRoom/src/main/webapp/views/)
+  * [controller](/MeRoom/src/main/java/com/spring/mr/controller/)
+  * [sql](/MeRoom/sql/)
 <br><br>
 ### 3.구현ERD
 ![구현ERD](https://user-images.githubusercontent.com/68181461/138590422-93e5e9f0-af55-49e2-a067-eeaf578b758a.png)
